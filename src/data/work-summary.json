@@ -1,0 +1,33 @@
+{
+  "summary": {
+    "name": "Front-end developer",
+    "workPlace": "Ha noi",
+    "introduction": "With my knowledge and skills, I'm confident that my abilities will contribute to the success of many projects company. By working collaboratively with the team, I can ensure we deliver high-quality results that meet the needs of both the company and the client",
+    "experience": {
+      "introduction": "Hello there! My name is Mai Nguyen. I am a Front-end developer, and I'm very passionate and dedicated to my work.",
+      "years": 2,
+      "months": 0
+    },
+    "skills": ["Javascript", "TypeScript", "React"]
+  },
+  "details": [
+    {
+      "years": "1",
+      "months": 0,
+      "startDate": "17-03-2022",
+      "endDate": "01-02-2023",
+      "company": "Nuclent",
+      "position": "Front-end Mobile developer",
+      "description": "I have almost one year of experience building mobile financial applications with React Native"
+    },
+    {
+      "years": "1+",
+      "months": 0,
+      "startDate": "02-02-2023",
+      "endDate": "now",
+      "company": "Nuclent",
+      "position": "Developer on Low-code platform",
+      "description": "With 1+ year of experience building management systems using the company's low-code platform. I with my team successfully deployed HDBank's Back Office system on time and received high praise."
+    }
+  ]
+}
