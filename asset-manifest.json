@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.60813289.css",
+    "main.js": "/react-gh-pages/static/js/main.a6582aef.js",
+    "static/js/453.bb257cf5.chunk.js": "/react-gh-pages/static/js/453.bb257cf5.chunk.js",
+    "static/media/avatar2.svg": "/react-gh-pages/static/media/avatar2.49ef02b88b79fc0e05e2a94ff0025053.svg",
+    "static/media/avatar.svg": "/react-gh-pages/static/media/avatar.30cf2d836cb6a5edd97a11d0f78ce33d.svg",
+    "static/media/user.svg": "/react-gh-pages/static/media/user.adbb05c2ec2aea99707979247243f27f.svg",
+    "static/media/phone.svg": "/react-gh-pages/static/media/phone.e014ae335f24dd4a8196db6ce05613d5.svg",
+    "static/media/open-quotes.svg": "/react-gh-pages/static/media/open-quotes.5fb857791964df9d52bc4a0b6c3c2529.svg",
+    "static/media/mail.svg": "/react-gh-pages/static/media/mail.4aa60d91028ee479f2e16096c1d3d474.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/location.svg": "/react-gh-pages/static/media/location.8a5320e944c816e33ffc36e4835e7103.svg",
+    "static/media/arrow.svg": "/react-gh-pages/static/media/arrow.8ba1aa2c7ab3ca744082b93452984b98.svg",
+    "static/media/arrow-black.svg": "/react-gh-pages/static/media/arrow-black.f3eab1f6e9883774d5b6d64a65599439.svg",
+    "static/media/arrow-bg-black.svg": "/react-gh-pages/static/media/arrow-bg-black.049dcb9560c4eb8d9a5c762914093019.svg",
+    "static/media/close.svg": "/react-gh-pages/static/media/close.e1c39a532cb4b2fa42657767c9edd31c.svg",
+    "main.60813289.css.map": "/react-gh-pages/static/css/main.60813289.css.map",
+    "main.a6582aef.js.map": "/react-gh-pages/static/js/main.a6582aef.js.map",
+    "453.bb257cf5.chunk.js.map": "/react-gh-pages/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60813289.css",
+    "static/js/main.a6582aef.js"
+  ]
+}
